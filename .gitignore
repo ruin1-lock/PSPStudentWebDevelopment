@@ -1,0 +1,11 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Upload Folder Contents (Keep folder structure)
+upload/*
+!upload/.gitkeep
